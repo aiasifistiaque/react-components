@@ -1,6 +1,7 @@
 import React from 'react';
 import { useStyle } from '../../hooks';
 import { Structure } from './Structure';
+import values from './values'
 
 //Containers
 export function Footer(props) {
